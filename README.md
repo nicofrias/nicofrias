@@ -14,7 +14,9 @@
 Soy estudiante de la carrera de Tecnologías de la Programación en la UPSO, con experiencia en el desarrollo web Full Stack. Manejo tecnologías tanto del frontend como del backend, permitiéndome crear aplicaciones web funcionales y escalables.
 
 🚀 Frontend: HTML, CSS, JavaScript, React ⚛️, Bootstrap 🎨, Sass 🎭
+<br/>
 🖥️ Backend: Python 🐍, Django 🎯, SQL 🗄️, MySQL 🏦
+<br/>
 🛠️ Herramientas: Git 🔗, GitHub 🐙, Linux 🐧
 
 Me motiva la resolución de problemas y la creación de soluciones innovadoras mediante el código, siempre buscando mejorar mis habilidades y desarrollar proyectos de alto impacto. 🚀✨
