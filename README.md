@@ -1,4 +1,4 @@
-## Hola, Soy Nicolas Frias <mark>Programador Front-End</mark>!
+## Hola, Soy Nicolas Frias - <b><mark>Programador Front-End</mark></b>!
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nicofrias)
